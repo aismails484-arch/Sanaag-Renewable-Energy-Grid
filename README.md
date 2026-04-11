@@ -25,6 +25,8 @@ The **Sanaag Renewable Energy Grid (SREG)** is a foundational infrastructure pro
 * [GRID_TECHNICAL_SPECS.md](./GRID_TECHNICAL_SPECS.md) - Engineering specifications for Solar/Wind.
 * [DISTRIBUTION_STRATEGY.md](./DISTRIBUTION_STRATEGY.md) - Regional grid mapping and transmission.
 * [SUSTAINABILITY_IMPACT.md](./SUSTAINABILITY_IMPACT.md) - Environmental and carbon credit analysis.
+* [💰 Energy Budget & ROI](./ENERGY_BUDGET_ESTIMATION.md) - CAPEX/OPEX and financial projections.
+* [⚙️ Grid Management](./GRID_MANAGEMENT_OPERATIONS.md) - Operational protocols and load balancing.
 
 ---
 **Developed by:** Directorate, SPH Global Research  
